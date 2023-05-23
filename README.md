@@ -1,9 +1,9 @@
 ### Hi, There 👋. I am Zacky from Indonesia. I defined myself as a lifelong learner. I'd love to learning, coding, and curious about philosophy as well. 
-
+##
 ### I Speak : 
-## Kotlin
-## Python
-## Javscript & Typescript
+* Kotlin
+* Python
+* Javscript & Typescript
 
 
 zacky-dzacky/zacky-dzacky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,4 @@
-** I am Zacky from Indonesia. I defined myself as a lifelong learner.
-** I'd love to learning, coding, and curious about philosophy as well. 👋
+### Hi, There 👋. I am Zacky from Indonesia. I defined myself as a lifelong learner. I'd love to learning, coding, and curious about philosophy as well. 
 
 ### I Speak : 
 ## Kotlin

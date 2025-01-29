@@ -5,7 +5,7 @@
 * Python
 * Javscript & Typescript
 * Solidity
-* PHP
+* Java
 
 **Tools:**  
 

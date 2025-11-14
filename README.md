@@ -1,13 +1,16 @@
-### Hi, There 👋. I am Zacky from Indonesia. I defined myself as a lifelong learner. I'd love to learning, coding, and curious about philosophy as well. 
-##
-**I Speak :**
-* Kotlin
+<h1 align="center"> Hi, There. I am Zacky, lifelong learner from Indonesia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Technical+Lead;AI+Engineer;Mobile+Developer+Expert&center=true&width=500&height=50"></a>
+</p>
+
+## I Speak
+
+* Kotlin & Java
 * Python
 * Javscript & Typescript
-* Solidity
-* Java
 
-**Tools:**  
+## Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>

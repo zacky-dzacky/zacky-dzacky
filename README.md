@@ -1,7 +1,6 @@
-<h1 align="center"> Hi, There. I am Zacky, lifelong learner from Indonesia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+<h1 align="center"> Zacky Syarief </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Technical+Lead;AI+Engineer;Mobile+Developer+Expert&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Currently+work+as+<b>AI+Engineer</b>;More+than+7+years+in+mobile+development&center=true&width=500&height=50"></a>
 </p>
 
 ## I Speak
@@ -24,7 +23,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 ##
 
-**🌱 I’m currently learning Kotlin Multiplatform Tech stack**
+**🌱 I’m currently designing AI architecture**
 
-**👯 I’m looking to collaborate on skeleton for android mvi jetpack compose**
+**👯 I’m looking to collaborate on AI Use Case**
 

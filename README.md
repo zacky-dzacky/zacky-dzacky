@@ -3,13 +3,20 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Currently+work+as+<b>AI+Engineer</b>;More+than+7+years+in+mobile+development&center=true&width=500&height=50"></a>
 </p>
 
-## I Speak
+<br/>
+**🌱 AI Engineer | Focused on Generative AI, Fine-Tuning LLMs, and RAG-Powered Agents**
+
+**👯 I’m looking to collaborate on AI Use Case**
+
+<br/>
+
+### I Speak
 
 * Kotlin & Java
 * Python
 * Javscript & Typescript
 
-## Tools
+### Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
@@ -22,8 +29,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 ##
-
-**🌱 I’m currently designing AI architecture**
-
-**👯 I’m looking to collaborate on AI Use Case**
 

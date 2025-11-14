@@ -8,7 +8,6 @@
 
 **👯 I’m looking to collaborate on AI Use Case**
 
-<br/>
 
 ### I Speak
 

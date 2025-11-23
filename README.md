@@ -1,6 +1,6 @@
 <h1 align="center"> Zacky Syarief </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Currently+work+as+<b>AI+Engineer</b>;More+than+7+years+in+mobile+development&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Currently+work+as+<b>AI+Engineer</b>;More+than+10+years+in+mobile+development&center=true&width=500&height=50"></a>
 </p>
 
 <br/>

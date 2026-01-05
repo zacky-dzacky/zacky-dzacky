@@ -7,7 +7,7 @@
 
 **🌱 AI Engineer | Focused on Generative AI, Fine-Tuning LLMs, and RAG-Powered Agents**
 
-**👯 I’m looking to collaborate on AI Use Case**
+I've been working in mobile development for over 10 years, starting back when 'mobile-first' design was the big hype. In late 2023, after Sam Altman tweeted about Language User Interfaces, I realized that AI would disrupt the way we interact with products. Since then, I have invested my time in reading papers and books, and experimenting with open models.
 
 
 ### I Speak

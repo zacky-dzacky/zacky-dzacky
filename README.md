@@ -7,7 +7,7 @@
 
 **🌱 Senior Full-Stack & Mobile Developer (10+ Years) | AI & ML Specialist**
 
-I've been working in mobile development for over 10 years, starting back when 'mobile-first' design was the big hype. In late 2023, after read Sam Altman tweeted about <b>Language User Interfaces</b>, I realized that AI would disrupt the way we interact with products. Since then, I have invested my time in reading papers and books, and experimenting with open models.
+I've been working in mobile development for over 10+ years, starting back when 'mobile-first' design was the big hype. In late 2023, after read Sam Altman tweeted about <b>Language User Interfaces</b>, I realized that AI would disrupt the way we interact with products. Since then, I have invested my time in reading papers and books, and experimenting with open models.
 
 Throughout this journey, I’ve learned various topics including Machine Learning (specifically Deep Neural Networks), MLOps, Data Engineering, MCP, Backend, and Web Applications. I am evolving into a full-stack developer with a strong AI background.
 
@@ -22,6 +22,7 @@ Because of my love for mobile development and my broad perspective on the indust
 * C/C++
 
 ### Tools
+* Android/iOS, React Native
 * LlamaIndex
 * Langchain, Langgraph
 * Google ADK, A2A, AP2
